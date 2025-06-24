@@ -2,7 +2,7 @@
 
 ---
 
-### 🧠 About Me
+### 😎 About Me
 
 - 🎓 I’m currently a third-year student majoring in **Computer Vision** at Ho Chi Minh University of Science  
 - 🧠 Passionate about **image processing**, especially in **medical imaging** to support disease diagnosis  

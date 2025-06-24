@@ -5,10 +5,8 @@
 ### 😎 About Me
 
 - 🎓 I’m currently a third-year student majoring in **Computer Vision** at Ho Chi Minh University of Science  
-- 🧠 Passionate about **Image Processing**, especially in **Medical Imaging** to support disease diagnosis  
 - 🧪 I’ve worked on projects involving **Convolutional Neural Networks (CNNs)** and **Deep Learning Models** applied to tasks like segmentation, classification, and object detection  
 - 🖥️ I have experience building responsive and interactive **Front-end Websites** using **React** and **Next.js**  
-- 🌱 I’m also interested in learning more about **Full-stack Web Development** and **Android App Programming** to better integrate AI into real-world applications  
 - 🧩 Always eager to expand my skills and apply AI to solve real-world problems
 
 ---
@@ -29,23 +27,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangnhu&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnhu&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 💡 Future Goals
-
-- 🚀 Build a real-world AI project that applies Computer Vision in web or mobile platforms  
-- 🧪 Explore advanced topics like medical image segmentation, GANs, or embedded vision systems  
-- 🌍 Open to collaborations, internships, or AI research opportunities
 
 ---
 

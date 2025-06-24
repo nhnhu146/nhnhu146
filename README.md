@@ -5,10 +5,10 @@
 ### 😎 About Me
 
 - 🎓 I’m currently a third-year student majoring in **Computer Vision** at Ho Chi Minh University of Science  
-- 🧠 Passionate about **image processing**, especially in **medical imaging** to support disease diagnosis  
-- 🧪 I’ve worked on projects involving **convolutional neural networks (CNNs)** and **deep learning models** applied to tasks like segmentation, classification, and object detection  
-- 🖥️ I have experience building responsive and interactive **front-end websites** using **React** and **Next.js**  
-- 🌱 I’m also interested in learning more about **full-stack web development** and **Android app programming** to better integrate AI into real-world applications  
+- 🧠 Passionate about **Image Processing**, especially in **Medical Imaging** to support disease diagnosis  
+- 🧪 I’ve worked on projects involving **Convolutional Neural Networks (CNNs)** and **Deep Learning Models** applied to tasks like segmentation, classification, and object detection  
+- 🖥️ I have experience building responsive and interactive **Front-end Websites** using **React** and **Next.js**  
+- 🌱 I’m also interested in learning more about **Full-stack Web Development** and **Android App Programming** to better integrate AI into real-world applications  
 - 🧩 Always eager to expand my skills and apply AI to solve real-world problems
 
 ---
